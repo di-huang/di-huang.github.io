@@ -2,7 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Publications
+[A Large-Scale Multi-Modal Dataset for Freehand Sketch-based Engineering Product Modeling](https://di-huang.github.io/THU-CAD-Freehand-Sketch-Dataset/).
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +123,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
