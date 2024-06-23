@@ -2,10 +2,7 @@
 layout: default
 ---
 
-Hello.
-
-## Introduction
-Hello.
+Introduction.
 
 ## Publications
 [A Large-Scale Multi-Modal Dataset for Freehand Sketch-based Engineering Product Modeling](https://di-huang.github.io/THU-CAD-Freehand-Sketch-Dataset/).
