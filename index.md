@@ -14,9 +14,9 @@ Email: dihuangdylan@gmail.com, huangdi@sz.tsinghua.edu.cn
 ▪️ Received my MSc degree in Advanced Computing from Imperial College London.
 
 ## Selected Publications
-▪️ **_Freehand Sketch Generation from Mechanical Components_**  
+▪️ **\[ACM MM 2024\] _Freehand Sketch Generation from Mechanical Components_**  
 &nbsp;&nbsp;&nbsp;Zhichao Liao\*, **Di Huang**\*, Heming Fang\*, Yue Ma, Fengyuan Piao, Xinghui Li, Long Zeng, Pingfa Feng  
-&nbsp;&nbsp;&nbsp;**ACM MM 2024**, \[[Project Website](https://mcfreeskegen.github.io/)\], \[[Code](https://github.com/di-huang/Freehand-Sketch-Generation-from-Mechanical-Components/)\], \[[Paper](https://arxiv.org/abs/2408.05966)\]  
+&nbsp;&nbsp;&nbsp;\[[Project Website](https://mcfreeskegen.github.io/)\], \[[Code](https://github.com/di-huang/Freehand-Sketch-Generation-from-Mechanical-Components/)\], \[[Paper](https://arxiv.org/abs/2408.05966)\]  
 ▪️ **_Training-Free Point Cloud Recognition Based on Geometric and Semantic Information Fusion_**  
 &nbsp;&nbsp;&nbsp;Yan Chen\*, **Di Huang**\*, Zhichao Liao, Xi Cheng, Xinghui Li, Lone Zeng  
 &nbsp;&nbsp;&nbsp;\[[Paper](https://arxiv.org/abs/2409.04760)\]
