@@ -22,6 +22,6 @@ Email: dihuangdylan@gmail.com, huangdi@sz.tsinghua.edu.cn
 &nbsp;&nbsp;&nbsp;\[[Paper](https://arxiv.org/abs/2409.04760)\]
 
 ## Projects
-▪️ **National Key Research and Development Program: _Data Collection and Processing of Hand-drawn Sketches Based on Digital Pen_**  
+▪️ **\[National Key Research and Development Program\] _Data Collection and Processing of Hand-drawn Sketches Based on Digital Pen_**  
 &nbsp;&nbsp;&nbsp;Successfully passed the mid-term inspection and evaluation.
 
