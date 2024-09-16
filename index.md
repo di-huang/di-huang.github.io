@@ -10,8 +10,8 @@ Email: dihuangdylan@gmail.com, huangdi@sz.tsinghua.edu.cn
 📌 My research interests are computer vision, multi-modal learning, AIGC, and large language/vision models.
 
 ## Education
-▪️ Received my BSc degree from University of Iowa.  
-▪️ Received my MSc degree from Imperial College London.
+▪️ Received my BSc degree in Computer Science (Major) and Mathematics (Minor) from University of Iowa.  
+▪️ Received my MSc degree in Advanced Computing from Imperial College London.
 
 ## Selected Publications
 ▪️ _Freehand Sketch Generation from Mechanical Components_  
@@ -22,5 +22,6 @@ Email: dihuangdylan@gmail.com, huangdi@sz.tsinghua.edu.cn
 &nbsp;&nbsp;&nbsp;\[[Paper](https://arxiv.org/abs/2409.04760)\]
 
 ## Projects
-▪️ **National Key Research and Development Program**: _Data Collection and Processing of Hand-drawn Sketches Based on Digital Pen_
+▪️ **National Key Research and Development Program**: _Data Collection and Processing of Hand-drawn Sketches Based on Digital Pen_  
+&nbsp;&nbsp;&nbsp;Successfully passed the mid-term inspection and evaluation.
 
