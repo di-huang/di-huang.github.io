@@ -10,7 +10,7 @@ Email: dihuangdylan@gmail.com, huangdi@sz.tsinghua.edu.cn
 📌 My research interests are computer vision, multi-modal learning, AIGC, and large language/vision models.
 
 ## Education
-▪️ Received my BSc degree in Computer Science (Major) and Mathematics (Minor) from University of Iowa.  
+▪️ Received my BSc degree in Computer Science from University of Iowa.  
 ▪️ Received my MSc degree in Advanced Computing from Imperial College London.
 
 ## Selected Publications
