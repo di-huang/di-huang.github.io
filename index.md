@@ -21,7 +21,7 @@ Email: dihuangdylan@gmail.com, huangdi@sz.tsinghua.edu.cn
 &nbsp;&nbsp;&nbsp;Yan Chen\*, **Di Huang**\*, Zhichao Liao, Xi Cheng, Xinghui Li, Lone Zeng  
 &nbsp;&nbsp;&nbsp;\[[Paper](https://arxiv.org/abs/2409.04760)\]  
 ▪️ **\[arXiv 2024\] _Constraint Learning for Parametric Point Cloud_**  
-&nbsp;&nbsp;&nbsp;Xi Cheng, Ruiqi Lei, Di Huang, Zhichao Liao, Fengyuan Piao, Yan Chen, Pingfa Feng, Long Zeng  
+&nbsp;&nbsp;&nbsp;Xi Cheng, Ruiqi Lei, **Di Huang**, Zhichao Liao, Fengyuan Piao, Yan Chen, Pingfa Feng, Long Zeng  
 &nbsp;&nbsp;&nbsp;\[[Paper](https://arxiv.org/abs/2411.07747)\]  
 
 ## Selected Projects
