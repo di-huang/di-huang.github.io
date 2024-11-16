@@ -19,9 +19,12 @@ Email: dihuangdylan@gmail.com, huangdi@sz.tsinghua.edu.cn
 &nbsp;&nbsp;&nbsp;\[[Project Website](https://mcfreeskegen.github.io/)\], \[[Code](https://github.com/di-huang/Freehand-Sketch-Generation-from-Mechanical-Components/)\], \[[Paper](https://arxiv.org/abs/2408.05966)\]  
 ▪️ **_Training-Free Point Cloud Recognition Based on Geometric and Semantic Information Fusion_**  
 &nbsp;&nbsp;&nbsp;Yan Chen\*, **Di Huang**\*, Zhichao Liao, Xi Cheng, Xinghui Li, Lone Zeng  
-&nbsp;&nbsp;&nbsp;\[[Paper](https://arxiv.org/abs/2409.04760)\]
+&nbsp;&nbsp;&nbsp;\[[Paper](https://arxiv.org/abs/2409.04760)\]  
+▪️ **_Constraint Learning for Parametric Point Cloud_**  
+&nbsp;&nbsp;&nbsp;Xi Cheng, Ruiqi Lei, Di Huang, Zhichao Liao, Fengyuan Piao, Yan Chen, Pingfa Feng, Long Zeng  
+&nbsp;&nbsp;&nbsp;\[[Paper](https://arxiv.org/abs/2411.07747)\]  
 
 ## Selected Projects
-▪️ **\[National Key Research and Development Program\] _Data Collection and Processing of Hand-drawn Sketches Based on Digital Pen_**  
+▪️ **\[National Key Research and Development Program (国家重点研发计划)\] _Data Collection and Processing of Hand-drawn Sketches Based on Digital Pen_**  
 &nbsp;&nbsp;&nbsp;Successfully passed the mid-term inspection and evaluation.
 
