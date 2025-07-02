@@ -2,22 +2,23 @@
 layout: default
 ---
 
-Research Assistant  
-Institute of Data and Information, Tsinghua SIGS, Tsinghua University  
-Email: dihuangdylan@gmail.com, huangdi@sz.tsinghua.edu.cn  
+PhD Student  
+Department of Computer Science, Hong Kong Baptist University  
+Email: dihuangdylan@gmail.com  
 \[[GitHub](https://github.com/di-huang)\], \[[ORCID](https://orcid.org/0009-0009-7336-161X)\]
 
-📌 My research interests are computer vision, multi-modal learning, AIGC, and large language/vision models.
+📌 My research interests are multi-modal learning, AIGC, and large language/vision models.
 
 ## Education
 ▪️ Received my BSc degree in Computer Science from University of Iowa.  
-▪️ Received my MSc degree in Advanced Computing from Imperial College London.
+▪️ Received my MSc degree in Advanced Computing from Imperial College London.  
+▪️ Pursuing a PhD in Computer Science at Hong Kong Baptist University.
 
 ## Selected Publications
 ▪️ **\[ICASSP 2025\] _Training-Free Point Cloud Recognition Based on Geometric and Semantic Information Fusion_**  
 &nbsp;&nbsp;&nbsp;Yan Chen\*, **Di Huang**\*, Zhichao Liao, Xi Cheng, Xinghui Li, Lone Zeng  
 &nbsp;&nbsp;&nbsp;\[[Paper](https://arxiv.org/abs/2409.04760)\]  
-▪️ **\[arXiv 2024\] _Constraint Learning for Parametric Point Cloud_**  
+▪️ **\[ICCV 2025\] _Constraint Learning for Parametric Point Cloud_**  
 &nbsp;&nbsp;&nbsp;Xi Cheng, Ruiqi Lei, **Di Huang**, Zhichao Liao, Fengyuan Piao, Yan Chen, Pingfa Feng, Long Zeng  
 &nbsp;&nbsp;&nbsp;\[[Paper](https://arxiv.org/abs/2411.07747)\]  
 ▪️ **\[ACM MM 2024\] _Freehand Sketch Generation from Mechanical Components_**  
