@@ -7,7 +7,7 @@ Department of Computer Science, Hong Kong Baptist University
 Email: dihuangdylan@gmail.com, dihuang@comp.hkbu.edu.hk  
 \[[GitHub](https://github.com/di-huang)\], \[[ORCID](https://orcid.org/0009-0009-7336-161X)\]
 
-📌 My current research direction is Multimodal Generative Models for 3D Reconstruction and Modification.
+📌 My current research direction is Multimodal Generative Models for 3D Reconstruction and Modification.  
 📌 My research interests are Multimodal Learning, Artificial Intelligence Generated Content (AIGC), Multimodal Large Language Model (MLLM), and AI Agent.
 
 ## Education
