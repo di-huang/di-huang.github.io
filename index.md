@@ -8,12 +8,12 @@ Email: dihuangdylan@gmail.com, dihuang@comp.hkbu.edu.hk
 \[[GitHub](https://github.com/di-huang)\], \[[ORCID](https://orcid.org/0009-0009-7336-161X)\]
 
 📌 My current research direction is Multimodal Generative Models for 3D Reconstruction and Modification.  
-📌 My research interests are Multimodal Learning, Artificial Intelligence Generated Content (AIGC), Multimodal Large Language Model (MLLM), and AI Agent.
+📌 My research interests encompass Multimodal Learning, Artificial Intelligence Generated Content (AIGC), Multimodal Large Language Model (MLLM), and AI Agent.
 
 ## Education
-▪️ Received my BSc degree in Computer Science from University of Iowa.  
+▪️ Pursuing a PhD degree in Computer Science at Hong Kong Baptist University.  
 ▪️ Received my MSc degree in Advanced Computing from Imperial College London.  
-▪️ Pursuing a PhD degree in Computer Science at Hong Kong Baptist University.
+▪️ Received my BSc degree in Computer Science from University of Iowa.
 
 ## Selected Publications
 ▪️ **\[ICASSP 2025\] _Training-Free Point Cloud Recognition Based on Geometric and Semantic Information Fusion_**  
