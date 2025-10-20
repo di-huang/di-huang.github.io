@@ -11,7 +11,7 @@ Email: dihuangdylan@gmail.com, dihuang@comp.hkbu.edu.hk
 📌 My research interests encompass Multimodal Learning, Artificial Intelligence Generated Content (AIGC), Multimodal Large Language Model (MLLM), and AI Agent.
 
 ## Education
-▪️ Pursuing a PhD degree in Computer Science at Hong Kong Baptist University.  
+▪️ Pursuing a PhD degree in Computer Science at Hong Kong Baptist University under the supervision of Prof. CHEN, Jie.  
 ▪️ Received my MSc degree in Advanced Computing from Imperial College London.  
 ▪️ Received my BSc degree in Computer Science from University of Iowa.
 
